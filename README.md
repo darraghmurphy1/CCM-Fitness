@@ -1,8 +1,30 @@
+| User Story | Acceptance Criteria |
+| ----------- | ----------- |
+| As a user I want to be able to easily navigate the site | The navbar exists on every page to allow easy access of all pages on the site |
+| As a user I want to be able to see relevant images and video. | The user has access to numerous media elements on every page. |
+| The user should be able to use an array of different sized devices | The site is fully responsive and reacts to different screen sizes without sacrificing content or integrity |
+| As a user I want all external links to work | All external links are working properly and open link in a new window |
+| As a user I want to know where the business is located | On the site will be an address|
+| As a user I want to get in contact with the business | On the contact us page there will be a contact form that will send information to the company|
+| As a visiting user I want to get a quick breakdown of what the site provides | Homepage will have a short intro and services will be displayed |
+
+
 
 
 # CCM Fitness
+![chrome_lNF5TwGm72](https://user-images.githubusercontent.com/103134533/169141707-88ee871d-58f2-479a-a4ab-93499458c337.png)
 
 CCM Fitness is a site for a personal trainer designed to encourage women to get involved in physical exercise. CCM Fitness will be useful to people who are looking for motivation to get healthy. The site is mostly targeted towards women as that is the business owner's target market. The site is useful for getting in contact with the business owner as well as providing information on the owner and pricing.
+
+
+## Site Skeleton
+
+I used the software Balsamiq to draw up simple wireframes to help with the design of the site. The following screenshots show the desktop browser and mobile browser (iPhone 5) for the index page, gallery and contact us page.
+
+![cOToR2ClUh](https://user-images.githubusercontent.com/103134533/169148336-1b79fcdd-a382-4d5a-a5c4-0a5a098922d1.png)
+![VaU7LydAaJ](https://user-images.githubusercontent.com/103134533/169148357-741b3d49-4231-48ef-9b3d-5de6ffef87d7.png)
+![BalsamiqWireframes_qQQMuBPcKH](https://user-images.githubusercontent.com/103134533/169148371-cced465f-3448-46b9-a193-38b1710d17ba.png)
+
 
 ## Features
 
@@ -57,6 +79,41 @@ I need to make the contact form send to CCM Fitness email address.
 
 ## Testing 
 
+### Homepage
+
+| Test | Outcome | Pass/Fail |
+| ----------- | ----------- | ---------- |
+| Media | All images load correctly and are consistent with the theme of the site | Pass |
+| Responsiveness | Site works on different sized screens from iPhone 5 to Desktop| Pass |
+| Links on navbar | The Link correctly goes to the advertised page with no broken links | Pass |
+| Links on footer | Link opens in seperate window to correct site | Pass |
+
+
+Accessability and Performance
+
+### Gallery
+
+
+| Test | Outcome | Pass/Fail |
+| ----------- | ----------- | -------- |
+| Media | All images and video load correctly and are consistent with the theme of the site. Video has controls and starts muted | Pass |
+| Responsiveness | Site works on different sized screens from iPhone 5 to Desktop| Pass |
+| Links on navbar | The Link correctly goes to the advertised page with no broken links | Pass |
+| Links on footer | Link opens in seperate window to correct site | Pass |
+
+Accessability and Performance
+### Contact Us 
+
+
+| Test | Outcome | Pass/Fail |
+| ----------- | ----------- | --------- |
+| Media | All images load correctly and are consistent with the theme of the site | Pass |
+| Responsiveness | Site works on different sized screens from iPhone 5 to Desktop| Pass |
+| Links on navbar | The Link correctly goes to the advertised page with no broken links | Pass |
+| Links on footer | Link opens in seperate window to correct site | Pass |
+| Contact Us form | Contact us form goes to the code institute formdump | Pass |
+
+Accessability and Performance
 ## Validator Testing
 
 # HTML Testing 
@@ -66,6 +123,46 @@ I need to make the contact form send to CCM Fitness email address.
 # CSS Testing 
 ![chrome_KQoilN85hF](https://user-images.githubusercontent.com/103134533/169140929-77a1b6c3-6128-4413-8dfd-6de9c158f2f8.png)
 ## Deployment
+
+The site was deployed to GitHub pages using the following steps:
+
+Sign up to GutHub
+
+Create a new repository on GitHub.
+
+Click on settings on the navigation bar under the repository title.
+
+Select pages on the left menu bar.
+
+Click on the master branch and save.
+
+This will now generate a link with your website live.
+
+The live link can be found here - (https://dhakal79.github.io/Portfolio-project-MS1/)
+
+
+## Performace 
+![chrome_PQcA3SV6kd](https://user-images.githubusercontent.com/103134533/169141850-4dbf15b0-ee72-4f64-b41e-0824c2716c4e.png)
+
+## Technology Used
+
+HTML 5
+
+CSS
+
+GitHub
+
+Gitpod 
+
+Balsamic
+
+W3C Markup and Jigsaw validation tools
+
+Google Chrome
+
+Font Awesome
+
+## Credits
 
 
 
