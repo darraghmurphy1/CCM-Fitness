@@ -90,6 +90,7 @@ I need to make the contact form send to CCM Fitness email address.
 
 
 Accessability and Performance
+![chrome_N4yayPfcqB](https://user-images.githubusercontent.com/103134533/169155705-72813acc-5186-4b03-8852-36961ce705a9.png)
 
 ### Gallery
 
@@ -102,6 +103,8 @@ Accessability and Performance
 | Links on footer | Link opens in seperate window to correct site | Pass |
 
 Accessability and Performance
+![chrome_tR4HLwb6KI](https://user-images.githubusercontent.com/103134533/169155782-391c52a0-8d82-4c64-a434-81abfb1cff3a.png)
+
 ### Contact Us 
 
 
@@ -114,6 +117,9 @@ Accessability and Performance
 | Contact Us form | Contact us form goes to the code institute formdump | Pass |
 
 Accessability and Performance
+![chrome_0Xn2iy0BsA](https://user-images.githubusercontent.com/103134533/169155856-39cc1934-dfe4-4ccc-a53c-c1e836b2cf0a.png)
+
+
 ## Validator Testing
 
 # HTML Testing 
