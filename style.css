@@ -132,6 +132,7 @@ html, body {
    color:slategray;
    margin-left:200px;
    margin-right: 200px;
+   text-align: center;
  }
 
   footer {
@@ -166,7 +167,7 @@ html, body {
   }
   
   .galleryvideo { 
-    align-items:center;
+    text-align:center;
     width:100%;
     height:100%;
     margin:40%;
