@@ -140,7 +140,7 @@ I used GitHub to publish the site by doing the following:
 - Click on the pages tab in settings
 - Click on main branch and save
 - You will be provided with a link to the live site
-
+https://darraghmurphy1.github.io/CCM-Fitness/
 
 
 
