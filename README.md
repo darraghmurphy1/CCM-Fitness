@@ -130,21 +130,14 @@ Accessability and Performance
 ![chrome_KQoilN85hF](https://user-images.githubusercontent.com/103134533/169140929-77a1b6c3-6128-4413-8dfd-6de9c158f2f8.png)
 ## Deployment
 
-The site was deployed to GitHub pages using the following steps:
+I used GitHub to publish the site by doing the following:
+-Log into GitHub
+-Access repository
+-Click on the pages tab in settings
+-Click on main branch and save
+-You will be provided with a link to the live site
 
-Sign up to GutHub
 
-Create a new repository on GitHub.
-
-Click on settings on the navigation bar under the repository title.
-
-Select pages on the left menu bar.
-
-Click on the master branch and save.
-
-This will now generate a link with your website live.
-
-The live link can be found here - (https://dhakal79.github.io/Portfolio-project-MS1/)
 
 
 ## Performace 
