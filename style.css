@@ -156,6 +156,7 @@ html, body {
   
   .gallery {
     text-align:center;
+    margin:25%;
   }
   
   .gallery img {
@@ -168,6 +169,7 @@ html, body {
     align-items:center;
     width:100%;
     height:100%;
+    margin:40%;
   }
   
   
