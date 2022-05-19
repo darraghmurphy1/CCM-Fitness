@@ -165,7 +165,7 @@ html, body {
   }
   
   .galleryvideo { 
-    text-align:center;
+    align-items:center;
     width:100%;
     height:100%;
   }
