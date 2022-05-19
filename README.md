@@ -7,7 +7,7 @@
 
 CCM Fitness is a site for a personal trainer designed to encourage women to get involved in physical exercise. CCM Fitness will be useful to people who are looking for motivation to get healthy. The site is mostly targeted towards women as that is the business owner's target market. The site is useful for getting in contact with the business owner as well as providing information on the owner and pricing.
 
--User Stories
+- User Stories
 | User Story | Acceptance Criteria |
 | ----------- | ----------- |
 | As a user I want to be able to easily navigate the site | The navbar exists on every page to allow easy access of all pages on the site |
@@ -133,11 +133,11 @@ Accessability and Performance
 ## Deployment
 
 I used GitHub to publish the site by doing the following:
--Log into GitHub
--Access repository
--Click on the pages tab in settings
--Click on main branch and save
--You will be provided with a link to the live site
+- Log into GitHub
+- Access repository
+- Click on the pages tab in settings
+- Click on main branch and save
+- You will be provided with a link to the live site
 
 
 
