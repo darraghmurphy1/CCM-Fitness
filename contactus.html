@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html lang="en-GB">
-
+  <!--head of the html page which includes links to CSS page amd title etc-->
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>CCM Fitness</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
-
+<!--The body of the page which contains almost all of the content-->
 <body>
+    <!-- classes created for CSS usage -->
   <div class="container">
   <div class="navbar">
-    
+    <!--img element to use as the opening image-->
 <img src="pictures/CCM-Fitness-Cover.jpg" alt="CCM Fitness" class="logo">
     <hr>
     <nav>
@@ -26,11 +27,17 @@
     </nav>
   </div>
   </div>  
-  
+  <!--blank header used to create a banner-->
+  <div class="container">
+  <div class="welcome">
+  <h1> </h1>
+  </div>
+  </div>
+  <!-- usage of the container class again -->
 <div class="container">
 <h1>Contact us and get started!</h1>
 <h5>Don't just take our word for it! Check out these reviews and results and drop your name and email in the areas provided and I will contact you as soon as I can</h5>
-
+<!--form element used with email and text inputs to create a contact form. also submit and reset buttons-->
   <form id="contactform" class="contactformclass" method="POST" action="https://formdump.codeinstitute.net/">
   
    <label for="fullname">Name:</label>
@@ -46,19 +53,20 @@
       <hr>
   </form>
 </div>
-
+<!--div and class created for reviews-->
 <div class="reviews">
   
   <img src="pictures/review3.jpeg" alt="reviews" class="reviews">
-
+<!--originally used images but tranformed to text for reviews-->
 <p>"My confidence is back within weeks"</p>
 <p>"My motivation is better than ever, I'm enjoying exercise and I'm not hung up on the scales."</p>
 <p>"I've gained so much gym knowledge, I'm focused on getting stronger."</p>
 <hr>
+<!--iframe element used to implement a google maps location-->
 <p>Find us on Google Maps</p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2325.0864417323724!2d-7.598452584172093!3d54.355453480202804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485e47c20b8cb167%3A0xcbf6fdf14858b8dd!2sFOCUS!5e0!3m2!1sen!2suk!4v1652978034831!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
-
+<!--footer element on every page contains links to social media via img elements. Also has text and contact information-->
   <footer>
 <a href="https://www.instagram.com/ccm.fitness/?hl=en-gb" target="_blank" aria-label="follow this link to follow my instagram"><img src="pictures/instagram.png" alt="Follow me on Instagram" height="20" width="20"> </a>
 <a href="https://www.youtube.com/" target="_blank" aria-label="YouTube"><img src="pictures/youtube.png" alt="Follow me on Instagram" height="20" width="20"> </a>

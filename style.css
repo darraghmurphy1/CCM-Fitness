@@ -72,7 +72,7 @@ hr {
 
 
 .welcome h1 {
-  color:slategrey;
+  color:white;
   margin:10px;
   font-family:sans-serif;
   text-align:center;
@@ -247,8 +247,18 @@ footer span a {
 .reviews {
  text-align: center;
 }
+.reviews img {
+  width:320px;
+  height:400px;
+  
+}
+
 /* align the form to the centre of the page */
 form {
  text-align: center;
 }
 
+/* iframe element with google maps location is too large. this is used to reduce size */
+iframe {
+  width:50%;
+}
