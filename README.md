@@ -165,16 +165,19 @@ Google Chrome
 
 Font Awesome
 
+Flaticon
+
 ## Credits
 
--Code to help create the gallery came from WS3 Schools
+- Code to help create the gallery came from W3 Schools
 - All images and video are owned by Cora Murphy except 4 pictures on homepage (CCM Fitness)
 - Homepage pictures are from www.pexels.com
 - HTML and CSS used from Code Institute modules
 - Thank you to my mentor Marcel for various corrections and guidance
-- Social media icons are from Font Awesome
+- Social media icons are from Font Awesome and Flaticon
 - Wireframes were created in Balsamiq
 - Testing was done by Google Lighthouse
+
 
 
 
