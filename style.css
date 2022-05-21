@@ -98,6 +98,7 @@ hr {
     width: 80%;
     margin-left:auto;
     margin-right:auto;
+
   }
 }
 
@@ -105,16 +106,13 @@ hr {
 div.homeimages img {
   width: 80%;
   height: auto;
-  margin-left:auto;
-  margin-right:auto;
 }
 /* I originally tried to use the float command to bring the pictures to the left but instead used no float and added some large text beside each picture on the homepage */
 .homebanner {
   padding: 15px;
   float: none;
   width: 30%;
-  margin-left:auto;
-  margin-right:auto;
+  text-align: center;
 }
 
 
