@@ -152,12 +152,13 @@ Accessability and Performance
 Accessability and Performance
 ![chrome_0Xn2iy0BsA](https://user-images.githubusercontent.com/103134533/169155856-39cc1934-dfe4-4ccc-a53c-c1e836b2cf0a.png)
 
+- All pages tested in Safari, Google Chrome and Firefox and on various screen sizes using Google Chrome DevTools.
 
 ## Validator Testing
 
 - HTML Testing 
 ![chrome_rHyJSNm9Dp](https://user-images.githubusercontent.com/103134533/169140910-737c9689-4bec-46ed-8876-8d575ff90980.png)
-
+![chrome_QypT9DjEWw](https://user-images.githubusercontent.com/103134533/169642838-209aa1f7-8c1b-43b5-832f-fd9c22b271b6.png)
 ![chrome_4TJ89JWMc5](https://user-images.githubusercontent.com/103134533/169140883-fc42d505-f756-414b-9543-20c59aff1b8c.png)
 - CSS Testing 
 ![chrome_KQoilN85hF](https://user-images.githubusercontent.com/103134533/169140929-77a1b6c3-6128-4413-8dfd-6de9c158f2f8.png)
