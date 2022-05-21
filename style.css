@@ -96,9 +96,8 @@ hr {
 @media only screen and (max-width: 320px) {
   .homebanner {
     width: 80%;
-    margin-left:auto;
-    margin-right:auto;
-
+    margin-left: 100px;
+    margin-right:100px;
   }
 }
 
@@ -112,7 +111,6 @@ div.homeimages img {
   padding: 15px;
   float: none;
   width: 30%;
-  text-align: center;
 }
 
 
