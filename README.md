@@ -3,7 +3,8 @@
 
 
 # CCM Fitness
-![chrome_lNF5TwGm72](https://user-images.githubusercontent.com/103134533/169141707-88ee871d-58f2-479a-a4ab-93499458c337.png)
+
+![chrome_aPsUFEX7RM](https://user-images.githubusercontent.com/103134533/169642328-af7a50ce-cb4e-4945-a529-6136120f9b12.png)
 
 CCM Fitness is a site for a personal trainer designed to encourage women to get involved in physical exercise. CCM Fitness will be useful to people who are looking for motivation to get healthy. The site is mostly targeted towards women as that is the business owner's target market. The site is useful for getting in contact with the business owner as well as providing information on the owner and pricing.
 
@@ -29,10 +30,38 @@ I used the software Balsamiq to draw up simple wireframes to help with the desig
 ![VaU7LydAaJ](https://user-images.githubusercontent.com/103134533/169148357-741b3d49-4231-48ef-9b3d-5de6ffef87d7.png)
 ![BalsamiqWireframes_qQQMuBPcKH](https://user-images.githubusercontent.com/103134533/169148371-cced465f-3448-46b9-a193-38b1710d17ba.png)
 
+## Screenshots of the site
+- Index
+
+
+![chrome_lHT9dyAUAW](https://user-images.githubusercontent.com/103134533/169642354-eb946866-8899-466c-9c10-0ab69c3be1a5.png)
+
+![chrome_NXeRZyMT5C](https://user-images.githubusercontent.com/103134533/169642374-24ea959d-ef9f-4b60-9ee0-2b376f243a8d.png)
+
+![chrome_SI9qh6NIHL](https://user-images.githubusercontent.com/103134533/169642377-3f23cc49-cb30-43ad-b30a-1f24b2b841cf.png)
+
+- Gallery
+
+
+![chrome_aqABTkWpi9](https://user-images.githubusercontent.com/103134533/169642392-4d47c737-8823-42f7-8be8-755de684082a.png)
+
+![chrome_0jjYkEcj1c](https://user-images.githubusercontent.com/103134533/169642415-8a17eee9-ad26-430f-b9ee-b446ebc75e90.png)
+
+![chrome_dq4rLtZEiZ](https://user-images.githubusercontent.com/103134533/169642386-589339f4-4789-4efa-bbd8-202ec4b2ce8d.png)
+
+- Contact Us
+
+
+![chrome_CJLwKZzjZC](https://user-images.githubusercontent.com/103134533/169642425-78b8bcca-ab03-4385-8345-efc7a9ad906b.png)
+
+![chrome_y35mOzxqWp](https://user-images.githubusercontent.com/103134533/169642444-7e2a57d7-2407-4fe0-9ae7-95961cd6a12c.png)
+
+![chrome_AMNryTgxgq](https://user-images.githubusercontent.com/103134533/169642456-78dfb7b0-6d2e-4949-b7b7-26bc0a17059c.png)
+
 
 ## Features
 
-- navbar
+- Navbar
  
 ![chrome_kQFSIak4iF](https://user-images.githubusercontent.com/103134533/169140711-caaa6d69-dfc5-4f68-809c-7009f0195c4d.png)
 
