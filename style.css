@@ -96,8 +96,8 @@ hr {
 @media only screen and (max-width: 320px) {
   .homebanner {
     width: 80%;
-    margin: 5px ;
-    margin-right:5px;
+    margin-left:auto;
+    margin-right:auto;
   }
 }
 
